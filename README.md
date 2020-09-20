@@ -1,2 +1,1 @@
-# DesignPatterns
-Ejemplo de patrones de diseños en JavaScript.
+# Patrones de diseños "JavaScript"
